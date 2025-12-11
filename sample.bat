@@ -1,0 +1,1 @@
+python spae2d.py --epoch_size 200  --ex_name test --latent_dim 20 --noise_level 0.1
